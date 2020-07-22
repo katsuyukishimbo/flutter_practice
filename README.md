@@ -1,6 +1,12 @@
-# flutter_tutorial
+# flutter_practice
 
-A new Flutter project.
+Flutter projects.
+
+- Branches
+  - master
+    - Learn list view and icon interaction. 
+  - feature/UI_check
+    - Learn textfield of chat format.
 
 ## Getting Started
 
